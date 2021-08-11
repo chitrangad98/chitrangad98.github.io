@@ -6,5 +6,5 @@ export const headerData = {
   image:
     "https://github.com/chitrangad98/resume-profilep/raw/3708084d4d57402886279096be70ac68d8728200/4FCD56A4-613F-445B-8B71-8DFE89352DE7%204.jpg",
   resumePdf:
-    "https://github.com/chitrangad98/resume-profilep/raw/edc8d9cf922be2992c2185d3f83abf2e4b54c1c8/resume_ASU.docx",
+    "https://github.com/chitrangad98/resume-profilep/raw/56c073c22490a800c66137485a68109663912973/chitrangadsingh_RESUME.pdf",
 };
