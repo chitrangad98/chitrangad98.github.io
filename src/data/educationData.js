@@ -13,11 +13,4 @@ export const educationData = [
     startYear: "2016",
     endYear: "2020",
   },
-  {
-    id: 3,
-    institution: "Scholars' Home",
-    course: "Secondary School Education",
-    startYear: "2015",
-    endYear: "2016",
-  },
 ];
